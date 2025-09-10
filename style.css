@@ -512,11 +512,11 @@ section{
 
 @media (max-width: 450px){
     html{
-        font-size: 60%;
+        font-size: 50%;
     }
 
       .home {
-    min-height: 45vh; /* ainda menor para celulares pequenos */
+    min-height: 50vh; /* ainda menor para celulares pequenos */
     background-position: center;
   }
 }
