@@ -506,13 +506,13 @@ section{
 
     .home .content p{
         font-size: 1.5rem;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      
     }
 }
 
 @media (max-width: 450px){
     html{
-        font-size: 80%;
+        font-size: 60%;
     }
 
       .home {
