@@ -495,8 +495,9 @@ section{
         background-position: left;
         justify-content: center;
         text-align: center;
-         min-height: 50vh; /* diminui altura da imagem */
+         min-height: 70vh; /* diminui altura da imagem */
     background-position: top; /* mostra a parte superior primeiro */
+ 
     }
 
     .home .content h3{
@@ -515,6 +516,6 @@ section{
 
       .home {
     min-height: 40vh; /* ainda menor para celulares pequenos */
-    background-position: top;
+    background-position: center;
   }
 }
